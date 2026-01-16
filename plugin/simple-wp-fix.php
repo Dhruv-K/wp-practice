@@ -8,6 +8,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
+
 function swf_demo_init() {
     error_log('Simple WP Fix Demo loaded');
 }
